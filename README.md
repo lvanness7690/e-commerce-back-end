@@ -29,7 +29,7 @@ Navigate through the routes using tools like Insomnia Core or Postman to interac
 
 ## Credits
 
-Developed by [Your Name].
+Developed by Leighton Van Ness with starter code from Columbia EDx Bootcamp
 
 ## License
 
